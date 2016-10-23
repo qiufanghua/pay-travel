@@ -15,10 +15,5 @@
 hs_err_pid* 
 
 # idea folder
-.idea
-.idea/*.*
-/.idea/*.*
+**/.idea/
 
-.git
-.git/*.*
-/.git/*.*
